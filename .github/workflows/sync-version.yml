@@ -1,4 +1,4 @@
-name: Sync Version – meteor
+name: Sync Version – cake2
 
 on:
   repository_dispatch:
